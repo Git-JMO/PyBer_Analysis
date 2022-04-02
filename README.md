@@ -5,11 +5,11 @@
 
 ## Analysis/Results:
   * Pyber Summary Data Frame:
-    * As depicted in the table below, ride-sharing data such as the total fares and average fare per ride and driver are directly impacted by the amount of available drivers in each city type (Rural, Urban, Suburban). More specifically, as the amount of available drivers declines, the average fares per ride and driver increases. For instance, due to the limited amount of available drivers in rural cities where the population is expected to be lower, riders are forced to pay a higher fare and likely have to travel further to get to their destination. Converseley in urban cities, the high availability of drivers and an assumed larger population make it easy for rideshare access which in turn saves riders' money and increases the amount of total rides. 
-       * ![Pyber_Summary_DataFrame](analysis/Pyber_Summary_DataFrame.png)
+    * As depicted in the table below, ride-sharing data such as the total fares and average fare per ride and driver are directly impacted by the amount of available drivers in each city type (Rural, Urban, Suburban). More specifically, as the amount of available drivers declines, the average fares per ride and driver increases. For instance, due to the limited amount of available drivers in rural cities where the population is likely to be lower, riders are expected to pay a higher fare and probably have to travel further to get to their destination. Converseley in urban cities, the high availability of drivers and an assumed larger population make it easy for rideshare access which in turn saves riders' money and increases the amount of total rides. 
+        ![Pyber_Summary_DataFrame](analysis/Pyber_Summary_DataFrame.png)
   * Multiple-line Graph (Total Weekly Fares vs City Type)
-    * The multiple-line chart below clearly displays the difference of total weekly fares between city types.  
-       * ![Pyber_Fare_Summary](analysis/PyBer_Fare_Summary.png)
+    * The multiple-line chart below compares the sum of fares per week by each city type beginning from January to late April 2019. As mentioned above, urban cities have the highest amount of available drivers and total rides (and most certainly higher population) which, in turn, increases the amount of fares accrued per week. Despite having higher fare costs in rural cities, the low amount of rides and limited availability of drivers directly impacted the weekly fares that were accrued in these cities. See below.
+        ![Pyber_Fare_Summary](analysis/PyBer_Fare_Summary.png)
 
 ## Summary:
 
