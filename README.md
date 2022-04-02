@@ -13,12 +13,12 @@
 
 ## Summary / Business Recommendations:
    * After analyzing the Pyber rideshare data, it is clear there is a significant difference in ride totals and total fares between city types likely due to amount of available drivers and fare costs. Therefore, below are three business recommendations to mitigate the disparities. 
-    * Start a recruiting campaign for drivers in Rural Cities: 
-      * The demand for rideshare in rural cities obviously exists; however, the number of rides in these cities (125) outnumber the amount of drivers (78). Putting more drivers on the road will likely increase the weekly amount of fares for these areas. 
-    * Increase advertisement for Pyber rideshare in urban cities:
-      * Traffic in urban cities is detrimental for all trying to make it to work on time. By placing advertisements in crowded areas with high traffic, we can motivate individuals to participate in Pyber rideshare and attract more customers and drivers.
-    * Provide rideshare incentives for employees:
-      *  Implementing corporate employee rideshare incentives will motivate employees to utilize rideshare. This will inherently increase rideshare drivers while also provide free advertisement and potentially increase employee retention.
+     * Start a recruiting campaign for drivers in Rural Cities: 
+       * The demand for rideshare in rural cities obviously exists; however, the number of rides in these cities (125) outnumber the amount of drivers (78). Putting more drivers on the road will likely increase the weekly amount of fares for these areas. 
+     * Increase advertisement for Pyber rideshare in urban cities:
+       * Traffic in urban cities is detrimental for all trying to make it to work on time. By placing advertisements in crowded areas with high traffic, we can motivate individuals to participate in Pyber rideshare and attract more customers and drivers.
+     * Provide rideshare incentives for employees:
+       *  Implementing corporate employee rideshare incentives will motivate employees to utilize rideshare. This will inherently increase rideshare drivers while also provide free advertisement and potentially increase employee retention.
 
 ## Below is the Pyber Pandas code for your reference
    * [PyBer_Challenge_Code](PyBer_Challenge.ipynb)
